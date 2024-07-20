@@ -5,7 +5,7 @@ It's just simple bot that I wrote to kinda learn Go.
 
 ### To use this bot you will need [local telegram API](https://core.telegram.org/bots/api#using-a-local-bot-api-server) 
 
-Without it uploads are limited with 50MB uploads, so bot needs local API.
+Without it bots uploads are limited to 50MB, so bot needs local API.
 
 You will need to create .env file and specify:
 
