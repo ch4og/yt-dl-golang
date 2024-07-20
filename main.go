@@ -5,19 +5,13 @@ import (
 	"errors"
 	"io"
 	"log"
-	"net/http"
 	"net/url"
 	"os"
-	"time"
 
 	tgbotapi "github.com/ch4og/telegram-bot-api/v5"
 	"github.com/joho/godotenv"
 	"github.com/wader/goutubedl"
 )
-
-var GlobalHttpClient = &http.Client{
-	Timeout: time.Second * 10,
-}
 
 func main() {
 	loadenv()
