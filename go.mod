@@ -1,4 +1,4 @@
-module ch4og/yt-dl-golang
+module ch4og/yt-dl-golang-bot
 
 go 1.22.5
 

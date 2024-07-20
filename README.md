@@ -1,4 +1,4 @@
-## yt-dl-golang
+## yt-dl-golang-bot
 This telegram bot allows you to download videos from youtube by just sending it a link.
 
 It's just simple bot that I wrote to kinda learn Go. 
