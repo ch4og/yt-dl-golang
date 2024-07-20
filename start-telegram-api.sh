@@ -1,4 +1,7 @@
 #!/bin/bash
+
+# IT'S A HELPER SCRIPT THAT I USE TO RUN LOCAL TELEGRAM API
+
 set -a        
 source $PWD/.env
 set +a
