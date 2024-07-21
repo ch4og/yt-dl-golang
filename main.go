@@ -12,7 +12,7 @@ import (
 	"github.com/joho/godotenv"
 	"github.com/wader/goutubedl"
 )
-
+//TODO: move bot to global var, didn't know they exist
 func main() {
 	loadenv()
 
